@@ -1,8 +1,5 @@
 # :pencil2: Leetcode Solutions with JavaScript
-I have solved **289 / 437** problems while there are **80** problems still locked.
-
-If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
-
+**289 / 437** problems while there are **80** problems still locked.
 If you are loving solving problems using JavaScript, please contact me to enjoy it together!
 
 (Notes: :blue_book: means you need to buy a book from Leetcode)
