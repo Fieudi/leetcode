@@ -1,6 +1,4 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Sun Dec 11 2016 22:23:38 GMT+0800 (中国标准时间)
-
 I have solved **289 / 437** problems while there are **80** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/hanzichi/leetcode/issues).
